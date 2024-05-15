@@ -1,4 +1,10 @@
 # Fish Car Robot
+
+## 경고 ❗❗❗
+> [!important]
+> 이제 블롭피쉬는 바퀴를 달아 움직임이 자유로워졌습니다.  
+> 못생겼다고 놀린 당신에게 찾아갈 수도 있으니 주의하시길 바랍니다.
+
 ## 소개
 세상에서 가장 못생긴 물고기, 블롭피쉬를 아시나요?
 
@@ -14,11 +20,6 @@
 </figure>
 <br><br>
 
-## 경고
-> [!important]
-> 이제 블롭피쉬는 바퀴를 달아 움직임이 자유로워졌습니다.  
-> 못생겼다고 놀린 당신에게 찾아갈 수도 있으니 주의하시길 바랍니다.
-
 ## 데모 영상
 https://github.com/hi-jin/fish_car_ros_gazebo/assets/51053567/16fc8ac0-8458-4149-b8da-54ecf87f2901
 
@@ -30,6 +31,11 @@ https://github.com/hi-jin/fish_car_ros_gazebo/assets/51053567/16fc8ac0-8458-4149
 ---
 
 # Fish Car Robot
+
+## Warning ❗❗❗
+> [!important]
+> The blobfish now has wheels and can move freely.  
+> It might come looking for you if you've ever mocked its appearance, so beware.
 
 ## Introduction
 Have you ever heard of the world's ugliest fish, the blobfish?
@@ -45,11 +51,6 @@ Have you ever heard of the world's ugliest fish, the blobfish?
   <figcaption>- Blobfish // Source: (Photo Greenpeace/Rex Features)/News Penguin(http://www.newspenguin.com)</figcaption>
 </figure>
 <br><br>
-
-## Warning
-> [!important]
-> The blobfish now has wheels and can move freely.  
-> It might come looking for you if you've ever mocked its appearance, so beware.
 
 ## Demo Video
 https://github.com/hi-jin/fish_car_ros_gazebo/assets/51053567/16fc8ac0-8458-4149-b8da-54ecf87f2901
